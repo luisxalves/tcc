@@ -1,6 +1,6 @@
 <?php
-define ('DB_USER', "root"); //usuario do banco de dados
-define ('DB_PASSWORD', ""); //senha do banco de dados
-define ('DB_DATABASE',"tcc"); //nome do banco de dados
-define ('DB_SERVER', "127.0.0.1"); // servidor do banco de dados
+define ('DB_USER', "u885774599_luis"); //usuario do banco de dados
+define ('DB_PASSWORD', "210685"); //senha do banco de dados
+define ('DB_DATABASE',"u885774599_tcc"); //nome do banco de dados
+define ('DB_SERVER', "mysql.hostinger.com.br"); // servidor do banco de dados
 ?>
